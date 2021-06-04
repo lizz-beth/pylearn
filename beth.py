@@ -164,7 +164,7 @@ def replace_first_arg(arg_value):
 
 
 @replace_first_arg(10)
-def mult(a, b):
+def multiply(a, b):
     return a * b
 
 
